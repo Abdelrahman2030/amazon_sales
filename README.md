@@ -20,3 +20,5 @@ The data set I have worked on in this project is a free data set from kaggler.co
 <br> after cleaning the data set I started my analysis by classifing the clothing types in the data set into three main categories ("Traditionla indian", "Sets" and "others").
 <br> Then I made my analysis based on these threee main categories
 <br> When I tried to find out how clothing type is affected by states, I faced a problem, there are 36 Indian states and this number was a lot to contain in my graphs, so I searched and found out that India consists of seven regions, so I classified the states into these seven regions and continued my analysis.
+
+**To view the results of this analysis you can look at the pdf file in this repository
